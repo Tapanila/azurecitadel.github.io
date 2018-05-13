@@ -13,7 +13,7 @@ author: Richard_Cheney
 
 ## Azure Resource Manager templates
 
-Azure Resource Manager (ARM) templates are used to deploy resources into resource groups programatically.  ARM provides full Infrastructure as Code capability for Azure.
+Azure Resource Manager (ARM) templates are used to deploy resources into resource groups programmatically.  ARM provides full Infrastructure as Code capability for Azure.
 
 ![ARM Templates](/workshops/arm/images/armTemplates.png)
 
@@ -106,7 +106,7 @@ If you go through the following lab sections then you will create example templa
 
 The truth is that you can use any text editor to manipulate JSON files, but most power users will prefer those with support for JSON formatting and snippets of code.
 
-Microsoft provide a couple of integrated development environments (IDEs) that are recommended.
+Microsoft provides a couple of integrated development environments (IDEs) that are recommended.
 
 The more lightweight cross platform product of the two is <a href="/guides/vscode" target="_new">Visual Studio Code</a> (VS Code).  This supports JSON syntax highlighting, intellisense and ARM snippets.  It has some good integration with both Azure and the GitHub Azure Quickstart repository that we will come on to later. This is the IDE tool that you will see in the screenshots for the majority of the lab. The install instructions in the link include a couple of key extensions, plus how to install the ARM snippets.
 
